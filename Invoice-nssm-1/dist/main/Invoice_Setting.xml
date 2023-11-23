@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <xpath_selector>
+    <capcha_img>/html/body/div[2]/div/div[2]/div/div[2]/div[2]/form/div/div[3]/div/div[2]/div/span/div/img</capcha_img>
+    <capcha_box>//*[@id="cvalue"]</capcha_box>
+    <login_button>//*[@id="__next"]/section/header/div[1]/div/div[6]</login_button>
+    <user_name_box>//*[@id="username"]</user_name_box>
+    <password_box>//*[@id="password"]</password_box>
+    <buy_in_tab>//*[@id="__next"]/section/section/main/div/div/div/div/div[1]/div/div/div/div/div[1]/div[2]</buy_in_tab>
+    <search_button>//*[@id="__next"]/section/section/main/div/div/div/div/div[3]/div[2]/div[3]/div[1]/div/div/form/div[3]/div[1]/button</search_button>
+    <search>//*[@id="__next"]/section/section/main/div/div/div/div/div[3]/div[1]/div[3]/div[1]/div/div/form/div[3]/div[1]/button</search>
+    <wait_table>//*[@id="__next"]/section/section/main/div/div/div/div/div[3]/div[2]/div[3]/div[2]/div[2]/div[3]/div[1]/div[2]/div/div/div/div/div/div[2]/table</wait_table>
+    <wait>//*[@id="__next"]/section/section/main/div/div/div/div/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/div[1]/div[2]/div/div/div/div/div/div[2]/table</wait>
+    <invoices_list>//tr[@class="ant-table-row ant-table-row-level-0"]</invoices_list>
+    <view_button>//*[@id="__next"]/section/section/main/div/div/div/div/div[3]/div[2]/div[3]/div[2]/div[1]/div[2]/div/div[5]/button</view_button>
+    <view>//*[@id="__next"]/section/section/main/div/div/div/div/div[3]/div[1]/div[3]/div[2]/div[1]/div[2]/div/div[5]/button</view>
+    <wait_pop_up>/html/body/div[2]/div/div[2]/div/div[2]/div/div/div/div/div</wait_pop_up>
+    <Mau_so>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[1]/div[1]/div/b[1]</Mau_so>
+    <Ki_hieu>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[1]/div[1]/div/b[2]</Ki_hieu>
+    <So>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[1]/div[1]/div/b[3]</So>
+    <title>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[1]/div[2]/h2</title>
+    <date>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[1]/div[2]/p/div/div/div[1]</date>
+    <MCCQT>
+      <key>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[1]/div[2]/p/div/div/div[2]/div/div/div[1]/span</key>
+      <value>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[1]/div[2]/p/div/div/div[2]/div/div/div[2]/div</value>
+    </MCCQT>
+    <di_label>//div[@class="di-label"]</di_label>
+    <di_value>//div[@class="di-value"]</di_value>
+    <table_1>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/table</table_1>
+    <table_2>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/div/div[1]/table</table_2>
+    <table_3>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/div/div[2]/table</table_3>
+    <exit_button>/html/body/div[3]/div/div[2]/div/div[2]/button</exit_button>
+    <tax>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/ul/li[2]/div/div[2]</tax>
+    <address>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/ul/li[3]/div/div/div[2]</address>
+    <account>/html/body/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[3]/ul/li[5]/div/div[2]</account>
+  </xpath_selector>
+  <variable>
+    <web_link>https://hoadondientu.gdt.gov.vn/lien-he</web_link>
+    <invoice_search_link>https://hoadondientu.gdt.gov.vn/tra-cuu/tra-cuu-hoa-don</invoice_search_link>
+    <api_key>lzqixvjq2byp9zuxahp5dkwfnf1jsy8v</api_key>
+    <uername>0104113262</uername>
+    <password>Langnghiem@79</password>
+    <input_svg>capcha.svg</input_svg>
+    <output_png>capcha.png</output_png>
+    <json_file>invoice.json</json_file>
+    <json_out>invoice_out.json</json_out>
+    <db_location>C:\Users\phuci\OneDrive\Desktop\Invoice-nssm-1\Database.accdb;</db_location>
+    <json_sel_month>SelectedMonths.json</json_sel_month>
+  </variable>
+</invoice>

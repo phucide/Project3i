@@ -1,0 +1,257 @@
+{
+  "invoices": [
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23THN",
+      "Số": "13243",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 31 tháng 10 năm 2023",
+      "MCCQT:": "0015E7448806D84DB7BD7FDB424693D4F0",
+      "Ngày": "31",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN ALFRESCO’S Á CHÂU",
+      "Mã số thuế:": "0102042513",
+      "Địa chỉ:": "23L Hai Bà Trưng, P. Tràng Tiền, Q. Hoàn Kiếm, TP. Hà Nội, Việt Nam",
+      "Điện thoại:": "02438267782",
+      "Số tài khoản:": "279020400101   VPBANK-Chi Nhánh Hà Nội",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM/CK",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Bánh Pizza Bò Xay Nướng Xốt Bbq Cỡ Nhỏ (#7 S)",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "185.000",
+              "Chiết khấu": "",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "185.000"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Nước Ngọt Coke Tươi",
+              "Đơn vị tính": "Ly",
+              "Số lượng": "1",
+              "Đơn giá": "35.000",
+              "Chiết khấu": "",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "35.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "220.000",
+              "Tổng tiền thuế": "17.600"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "220.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "17.600",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "0",
+          "Tổng tiền thanh toán bằng số": "237.600",
+          "Tổng tiền thanh toán bằng chữ": "Hai trăm ba mươi bảy nghìn sáu trăm đồng."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TTC",
+      "Số": "5",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 13 tháng 10 năm 2023",
+      "MCCQT:": "005360A96F66E0407B9EA17A82B4174935",
+      "Ngày": "13",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY TNHH CÔNG NGHỆ TOÀN CẦU AVEO",
+      "Mã số thuế:": "0110224073",
+      "Địa chỉ:": "Tầng 4, toà nhà Số 9 Đường Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam",
+      "Điện thoại:": "024 6259 3698",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình - Phường Thanh Xuân Trung - Quận Thanh Xuân - Hà Nội.",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM/CK",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Phí sản xuất phần mềm quản lý kho chứng từ số theo hợp đồng số 06/2023/HĐKT/3I_AVEO ký ngày 02/05/2023",
+              "Đơn vị tính": "",
+              "Số lượng": "",
+              "Đơn giá": "",
+              "Chiết khấu": "0",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "420.000.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "KCT",
+              "Tổng tiền chưa thuế": "420.000.000",
+              "Tổng tiền thuế": "0"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "420.000.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "0",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "420.000.000",
+          "Tổng tiền thanh toán bằng chữ": "Bốn trăm hai mươi triệu đồng"
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TTV",
+      "Số": "5884",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 05 tháng 10 năm 2023",
+      "MCCQT:": "009742054BF39B431EB8C5B94A0F55ECBF",
+      "Ngày": "05",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN VĂN HÓA VÀ GIÁO DỤC TÂN VIỆT",
+      "Mã số thuế:": "0101955609",
+      "Địa chỉ:": "Số 449 Phố Bạch Mai, Phường Trương Định, Quận Hai Bà Trưng, TP. Hà Nội, Việt Nam",
+      "Điện thoại:": "",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình - Phường Thanh Xuân Trung - Quận Thanh Xuân - TP. Hà Nội.",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Bút gel mực xanh 0.7mm 12c/h GP0024BU",
+              "Đơn vị tính": "Chiếc",
+              "Số lượng": "1",
+              "Đơn giá": "9.259",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "9.259"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "K4472 QQH-Q23 JZ Ví bút",
+              "Đơn vị tính": "Cái",
+              "Số lượng": "1",
+              "Đơn giá": "94.444",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "94.444"
+            },
+            {
+              "STT": "3",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Bad Blood (Exp)",
+              "Đơn vị tính": "Quyển",
+              "Số lượng": "1",
+              "Đơn giá": "150.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "150.000"
+            },
+            {
+              "STT": "4",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Integrity",
+              "Đơn vị tính": "Quyển",
+              "Số lượng": "1",
+              "Đơn giá": "262.963",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "262.963"
+            },
+            {
+              "STT": "5",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "The Leader Who Had No Title",
+              "Đơn vị tính": "Quyển",
+              "Số lượng": "1",
+              "Đơn giá": "269.444",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "269.444"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "786.110",
+              "Tổng tiền thuế": "62.890"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "786.110",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "62.890",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "849.000",
+          "Tổng tiền thanh toán bằng chữ": "Tám trăm bốn mươi chín nghìn đồng chẵn./."
+        }
+      ]
+    }
+  ]
+}

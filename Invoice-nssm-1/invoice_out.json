@@ -1,0 +1,213 @@
+{
+  "invoices": [
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TAA",
+      "Số": "5",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 27 tháng 09 năm 2023",
+      "MCCQT:": "006059EBEBA64D47CD9B464D4F390F5EEF",
+      "Ngày": "27",
+      "tháng": "09",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Mã số thuế:": "0104113262",
+      "Địa chỉ:": "Nhà B1- 4- Khu đô thị 54 Hạ Đình, Ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Điện thoại:": "",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "Viện y học dự phòng quân đội",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "",
+      "Địa chỉ: buyer": "Số 21 Trung Liệt - Đống Đa - Hà Nội - Việt Nam",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "Chuyển khoản",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Xây dựng các mô đun hỗ trợ xuất bản Tạp chí Y học Quân sự trực tuyến.",
+              "Đơn vị tính": "gói",
+              "Số lượng": "1",
+              "Đơn giá": "99.500.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "99.500.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "KCT",
+              "Tổng tiền chưa thuế": "99.500.000",
+              "Tổng tiền thuế": "0"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "99.500.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "0",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "99.500.000",
+          "Tổng tiền thanh toán bằng chữ": "Chín mươi chín triệu năm trăm nghìn đồng chẵn./."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TAA",
+      "Số": "7",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 25 tháng 10 năm 2023",
+      "MCCQT:": "00BE788524CA264DC0A54C3411DA529422",
+      "Ngày": "25",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Mã số thuế:": "0104113262",
+      "Địa chỉ:": "Nhà B1- 4- Khu đô thị 54 Hạ Đình, Ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Điện thoại:": "",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "Bộ tư lệnh cảnh sát biển",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "",
+      "Địa chỉ: buyer": "Km6+825 Đại lộ Thăng Long, Phường Tây Mỗ, quận Nam Tư Liêm, TP.Hà Nội",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "Chuyển khoản",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Sửa chữa, nâng cấp giao diện website canhsatbien.vn theo Hợp đồng 10957/HĐMB",
+              "Đơn vị tính": "gói",
+              "Số lượng": "1",
+              "Đơn giá": "99.500.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "99.500.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "KCT",
+              "Tổng tiền chưa thuế": "99.500.000",
+              "Tổng tiền thuế": "0"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "99.500.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "0",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "99.500.000",
+          "Tổng tiền thanh toán bằng chữ": "Chín mươi chín triệu năm trăm nghìn đồng chẵn./."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TAA",
+      "Số": "6",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 11 tháng 10 năm 2023",
+      "MCCQT:": "009AD02E462DB64B7798E012A14BC3EC2D",
+      "Ngày": "11",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Mã số thuế:": "0104113262",
+      "Địa chỉ:": "Nhà B1- 4- Khu đô thị 54 Hạ Đình, Ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Điện thoại:": "",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "CÔNG TY CỔ PHẦN VẬT TƯ & THIẾT BỊ CÔNG NGHIỆP",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0101023557",
+      "Địa chỉ: buyer": "Số 3B, Đặng Thái Thân, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "Chuyển khoản",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Xây dựng phần mềm kết nối dữ liệu từ hệ thống AGC lên Trung tâm điều độ Quốc gia (A0)",
+              "Đơn vị tính": "Bộ",
+              "Số lượng": "1",
+              "Đơn giá": "700.000.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "700.000.000"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Xây dựng phần mềm chuyển đổi cơ sở dữ liệu từ bộ PLC Rockwell Automation AllenBradley 1756, 1747 sang hệ thống điều khiển Ovation Developer Studio 3.8.0",
+              "Đơn vị tính": "Bộ",
+              "Số lượng": "1",
+              "Đơn giá": "500.000.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "500.000.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "KCT",
+              "Tổng tiền chưa thuế": "1.200.000.000",
+              "Tổng tiền thuế": "0"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "1.200.000.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "0",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "1.200.000.000",
+          "Tổng tiền thanh toán bằng chữ": "Một tỷ hai trăm triệu đồng chẵn./."
+        }
+      ]
+    }
+  ]
+}

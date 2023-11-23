@@ -1,0 +1,862 @@
+{
+  "invoices": [
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TTH",
+      "Số": "15616",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 24 tháng 09 năm 2023",
+      "MCCQT:": "00ADD4A8ED2770416D96A372655D72A36C",
+      "Ngày": "24",
+      "tháng": "09",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN ĐẦU TƯ CÔNG NGHỆ HACOM",
+      "Mã số thuế:": "0101161194",
+      "Địa chỉ:": "Số 129 + 131, phố Lê Thanh Nghị, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội, Việt Nam",
+      "Điện thoại:": "19001903",
+      "Số tài khoản:": "0991000000930   Ngân hàng TMCP Ngoại Thương Việt Nam - Chi nhánh Tây Hồ",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM/CK",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Hạt mạng RJ45 Cat5e Ugreen 50246",
+              "Đơn vị tính": "Chiếc",
+              "Số lượng": "8",
+              "Đơn giá": "2.777,78",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "22.222"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "22.222",
+              "Tổng tiền thuế": "1.778"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "22.222",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "1.778",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "24.000",
+          "Tổng tiền thanh toán bằng chữ": "Hai mươi bốn nghìn đồng chẵn."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TTH",
+      "Số": "15615",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 24 tháng 09 năm 2023",
+      "MCCQT:": "00D3B7A7E6693B4BE699B76054A9544983",
+      "Ngày": "24",
+      "tháng": "09",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN ĐẦU TƯ CÔNG NGHỆ HACOM",
+      "Mã số thuế:": "0101161194",
+      "Địa chỉ:": "Số 129 + 131, phố Lê Thanh Nghị, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội, Việt Nam",
+      "Điện thoại:": "19001903",
+      "Số tài khoản:": "0991000000930   Ngân hàng TMCP Ngoại Thương Việt Nam - Chi nhánh Tây Hồ",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM/CK",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Đầu ghi hình DS-7108NI-Q1/M",
+              "Đơn vị tính": "Chiếc",
+              "Số lượng": "1",
+              "Đơn giá": "1.136.363,64",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "1.136.364"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Camera quan sát DS-2CD1043G0-IUF",
+              "Đơn vị tính": "Chiếc",
+              "Số lượng": "2",
+              "Đơn giá": "1.062.727,27",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "2.125.455"
+            },
+            {
+              "STT": "3",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Nguồn tổng, dùng để cấp điện cho cameramodel:12V10A ,diện áp 12V-10A, tần số: 50-60Hz, hiệu: GIPCO",
+              "Đơn vị tính": "Chiếc",
+              "Số lượng": "1",
+              "Đơn giá": "227.272,73",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "227.273"
+            },
+            {
+              "STT": "4",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Ổ cứng cắm trong Seagate Skyhawk 1TB 3.5\" Sata 5900 (ST1000VX005)",
+              "Đơn vị tính": "Chiếc",
+              "Số lượng": "1",
+              "Đơn giá": "999.090,91",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "999.091"
+            },
+            {
+              "STT": "5",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Dây cáp mạng UTP cat5e DS-1LN5E-E/E",
+              "Đơn vị tính": "Mét",
+              "Số lượng": "32",
+              "Đơn giá": "8.181,82",
+              "Chiết khấu": "0",
+              "Thuế suất": "10%",
+              "Thành tiền chưa có thuế GTGT": "261.818"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "10%",
+              "Tổng tiền chưa thuế": "4.750.001",
+              "Tổng tiền thuế": "474.999"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "4.750.001",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "474.999",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "5.225.000",
+          "Tổng tiền thanh toán bằng chữ": "Năm triệu hai trăm hai mươi lăm nghìn đồng chẵn."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TFB",
+      "Số": "7243",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 15 tháng 09 năm 2023",
+      "MCCQT:": "00D05E889C9BEC413DAD023AB50B7B48DA",
+      "Ngày": "15",
+      "tháng": "09",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN ALACARTE HẠ LONG",
+      "Mã số thuế:": "0109475770",
+      "Địa chỉ:": "Lô đất H30-H33 Bán đảo số 2, khu đô thị dịch vụ Hùng Thắng, Phường Hùng Thắng, Thành phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam",
+      "Điện thoại:": "02033559555",
+      "Số tài khoản:": "110601247555   Ngân hàng TMCP Công thương Việt Nam (Vietinbank) - Chi nhánh TP Hà Nội",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Nước Aquafina 500ML",
+              "Đơn vị tính": "Chai",
+              "Số lượng": "1",
+              "Đơn giá": "44.091",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "44.091"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Mỳ Ý sốt bò bằm",
+              "Đơn vị tính": "Đĩa",
+              "Số lượng": "1",
+              "Đơn giá": "158.730",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "158.730"
+            },
+            {
+              "STT": "3",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Xúp tôm chua cay kiểu Thái",
+              "Đơn vị tính": "Đĩa",
+              "Số lượng": "1",
+              "Đơn giá": "105.820",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "105.820"
+            },
+            {
+              "STT": "4",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Pizza gà",
+              "Đơn vị tính": "Cái",
+              "Số lượng": "1",
+              "Đơn giá": "158.730",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "158.730"
+            },
+            {
+              "STT": "5",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Thăn bò nướng",
+              "Đơn vị tính": "Đĩa",
+              "Số lượng": "1",
+              "Đơn giá": "396.825",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "396.825"
+            },
+            {
+              "STT": "6",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Combo xúc xích",
+              "Đơn vị tính": "Suất",
+              "Số lượng": "1",
+              "Đơn giá": "87.302",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "87.302"
+            },
+            {
+              "STT": "7",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Phi dich vu (Service Charge)",
+              "Đơn vị tính": "Lần",
+              "Số lượng": "1",
+              "Đơn giá": "47.575",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "47.575"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "999.073",
+              "Tổng tiền thuế": "79.926"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "999.073",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "79.926",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "1.078.999",
+          "Tổng tiền thanh toán bằng chữ": "Một triệu không trăm bảy mươi tám nghìn chín trăm chín mươi chín đồng chẵn."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TFB",
+      "Số": "7239",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 15 tháng 09 năm 2023",
+      "MCCQT:": "0003E96685F4364EE8B6A025549ECB01D9",
+      "Ngày": "15",
+      "tháng": "09",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN ALACARTE HẠ LONG",
+      "Mã số thuế:": "0109475770",
+      "Địa chỉ:": "Lô đất H30-H33 Bán đảo số 2, khu đô thị dịch vụ Hùng Thắng, Phường Hùng Thắng, Thành phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam",
+      "Điện thoại:": "02033559555",
+      "Số tài khoản:": "110601247555   Ngân hàng TMCP Công thương Việt Nam (Vietinbank) - Chi nhánh TP Hà Nội",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "NGƯỜI MUA KHÔNG LẤY HÓA ĐƠN",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "NGƯỜI MUA KHÔNG CUNG CẤP TÊN, ĐỊA CHỈ, MÃ SỐ THUẾ",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Aquafina 500ML",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "44.091",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "44.091"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "My Y Sot Bo Bam",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "158.730",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "158.730"
+            },
+            {
+              "STT": "3",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Xup Tom Chua Cay Kieu Thai",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "105.820",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "105.820"
+            },
+            {
+              "STT": "4",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Pizza Ga",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "158.730",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "158.730"
+            },
+            {
+              "STT": "5",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Than Bo Nuong Xot Tieu Hong",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "396.825",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "396.825"
+            },
+            {
+              "STT": "6",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Combo Bia va Xuc Xich",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "87.302",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "87.302"
+            },
+            {
+              "STT": "7",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Phi dich vu (Service Charge)",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "47.575",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "47.575"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "999.073",
+              "Tổng tiền thuế": "79.926"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "999.073",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "79.926",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "1.078.999",
+          "Tổng tiền thanh toán bằng chữ": "Một triệu không trăm bảy mươi tám nghìn chín trăm chín mươi chín đồng chẵn."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TCG",
+      "Số": "13670",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 09 tháng 09 năm 2023",
+      "MCCQT:": "00BD9C9E6DD7F0427A9B09042C17CB9937",
+      "Ngày": "09",
+      "tháng": "09",
+      "năm": "2023",
+      "Tên người bán:": "CHI NHÁNH CÔNG TY TNHH THỰC PHẨM TÂN VIỆT NHẬT TẠI HÀ NỘI",
+      "Mã số thuế:": "0306340691-010",
+      "Địa chỉ:": "Tầng 01, tòa nhà N04, KĐT mới Đông Nam, đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",
+      "Điện thoại:": "",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM / CK",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Cá saba nướng",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "99.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "99.000"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Nước suối",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "15.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "15.000"
+            },
+            {
+              "STT": "3",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Set cơm cá saba nướng",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "115.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "115.000"
+            },
+            {
+              "STT": "4",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Set cơm tô thịt bò Mỹ & udon nóng",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "129.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "129.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "358.000",
+              "Tổng tiền thuế": "28.640"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "358.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "28.640",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "386.640",
+          "Tổng tiền thanh toán bằng chữ": "Ba trăm tám mươi sáu nghìn sáu trăm bốn mươi đồng."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TAA",
+      "Số": "409",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 02 tháng 09 năm 2023",
+      "MCCQT:": "0003A9C2FE860548298AD2EAF16BB323B2",
+      "Ngày": "02",
+      "tháng": "09",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN THƯƠNG MẠI  DU LỊCH VÀ XÂY DỰNG LONG CHÂU",
+      "Mã số thuế:": "2802436362",
+      "Địa chỉ:": "Khách sạn Long Thành, đường Hồ Xuân Hương, khu phố Trung kỳ, Phường Trung Sơn, Thành phố Sầm Sơn, Tỉnh Thanh Hoá, Việt Nam",
+      "Điện thoại:": "02373.683686",
+      "Số tài khoản:": "19135608911018, 119000195494   Techcombank, Thanh Hóa - TMCP Công Thương Việt Nam, chi nhánh Sầm Sơn",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Dịch vụ phòng nghỉ",
+              "Đơn vị tính": "",
+              "Số lượng": "",
+              "Đơn giá": "",
+              "Chiết khấu": "",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "1.666.666"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "1.666.666",
+              "Tổng tiền thuế": "133.333"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "1.666.666",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "133.333",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "1.799.999",
+          "Tổng tiền thanh toán bằng chữ": "Một triệu, bảy trăm chín mươi chín nghìn, chín trăm chín mươi chín đồng"
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23THN",
+      "Số": "13243",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 31 tháng 10 năm 2023",
+      "MCCQT:": "0015E7448806D84DB7BD7FDB424693D4F0",
+      "Ngày": "31",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN ALFRESCO’S Á CHÂU",
+      "Mã số thuế:": "0102042513",
+      "Địa chỉ:": "23L Hai Bà Trưng, P. Tràng Tiền, Q. Hoàn Kiếm, TP. Hà Nội, Việt Nam",
+      "Điện thoại:": "02438267782",
+      "Số tài khoản:": "279020400101   VPBANK-Chi Nhánh Hà Nội",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM/CK",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Bánh Pizza Bò Xay Nướng Xốt Bbq Cỡ Nhỏ (#7 S)",
+              "Đơn vị tính": "Phần",
+              "Số lượng": "1",
+              "Đơn giá": "185.000",
+              "Chiết khấu": "",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "185.000"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Nước Ngọt Coke Tươi",
+              "Đơn vị tính": "Ly",
+              "Số lượng": "1",
+              "Đơn giá": "35.000",
+              "Chiết khấu": "",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "35.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "220.000",
+              "Tổng tiền thuế": "17.600"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "220.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "17.600",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "0",
+          "Tổng tiền thanh toán bằng số": "237.600",
+          "Tổng tiền thanh toán bằng chữ": "Hai trăm ba mươi bảy nghìn sáu trăm đồng."
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TTC",
+      "Số": "5",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 13 tháng 10 năm 2023",
+      "MCCQT:": "005360A96F66E0407B9EA17A82B4174935",
+      "Ngày": "13",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY TNHH CÔNG NGHỆ TOÀN CẦU AVEO",
+      "Mã số thuế:": "0110224073",
+      "Địa chỉ:": "Tầng 4, toà nhà Số 9 Đường Hạ Đình, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam",
+      "Điện thoại:": "024 6259 3698",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình - Phường Thanh Xuân Trung - Quận Thanh Xuân - Hà Nội.",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "TM/CK",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Phí sản xuất phần mềm quản lý kho chứng từ số theo hợp đồng số 06/2023/HĐKT/3I_AVEO ký ngày 02/05/2023",
+              "Đơn vị tính": "",
+              "Số lượng": "",
+              "Đơn giá": "",
+              "Chiết khấu": "0",
+              "Thuế suất": "KCT",
+              "Thành tiền chưa có thuế GTGT": "420.000.000"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "KCT",
+              "Tổng tiền chưa thuế": "420.000.000",
+              "Tổng tiền thuế": "0"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "420.000.000",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "0",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "420.000.000",
+          "Tổng tiền thanh toán bằng chữ": "Bốn trăm hai mươi triệu đồng"
+        }
+      ]
+    },
+    {
+      "Trạng thái": "Hóa đơn mới",
+      "Kết quả kiểm tra hóa đơn": "Đã cấp mã hóa đơn",
+      "Mẫu_số": "1",
+      "Ký hiệu": "C23TTV",
+      "Số": "5884",
+      "Tên hóa đơn": "HOÁ ĐƠN GIÁ TRỊ GIA TĂNG",
+      "Ngày thành lập": "Ngày 05 tháng 10 năm 2023",
+      "MCCQT:": "009742054BF39B431EB8C5B94A0F55ECBF",
+      "Ngày": "05",
+      "tháng": "10",
+      "năm": "2023",
+      "Tên người bán:": "CÔNG TY CỔ PHẦN VĂN HÓA VÀ GIÁO DỤC TÂN VIỆT",
+      "Mã số thuế:": "0101955609",
+      "Địa chỉ:": "Số 449 Phố Bạch Mai, Phường Trương Định, Quận Hai Bà Trưng, TP. Hà Nội, Việt Nam",
+      "Điện thoại:": "",
+      "Số tài khoản:": "   ",
+      "Tên người mua:": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ VÀ TRUYỀN THÔNG 3I",
+      "Họ tên người mua:": "",
+      "Mã số thuế: buyer": "0104113262",
+      "Địa chỉ: buyer": "Nhà B1- 4- khu đô thị 54 Hạ Đình, ngõ 85 Hạ Đình - Phường Thanh Xuân Trung - Quận Thanh Xuân - TP. Hà Nội.",
+      "Số tài khoản: buyer": "   ",
+      "Hình thức thanh toán:": "Tiền mặt/Chuyển khoản",
+      "Đơn vị tiền tệ:": "VND",
+      "Số bảng kê:": "",
+      "Ngày bảng kê:": "",
+      "tables": [
+        {
+          "rows": [
+            {
+              "STT": "1",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Bút gel mực xanh 0.7mm 12c/h GP0024BU",
+              "Đơn vị tính": "Chiếc",
+              "Số lượng": "1",
+              "Đơn giá": "9.259",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "9.259"
+            },
+            {
+              "STT": "2",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "K4472 QQH-Q23 JZ Ví bút",
+              "Đơn vị tính": "Cái",
+              "Số lượng": "1",
+              "Đơn giá": "94.444",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "94.444"
+            },
+            {
+              "STT": "3",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Bad Blood (Exp)",
+              "Đơn vị tính": "Quyển",
+              "Số lượng": "1",
+              "Đơn giá": "150.000",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "150.000"
+            },
+            {
+              "STT": "4",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "Integrity",
+              "Đơn vị tính": "Quyển",
+              "Số lượng": "1",
+              "Đơn giá": "262.963",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "262.963"
+            },
+            {
+              "STT": "5",
+              "Tính chất": "Hàng hóa, dịch vụ",
+              "Tên hàng hóa, dịch vụ": "The Leader Who Had No Title",
+              "Đơn vị tính": "Quyển",
+              "Số lượng": "1",
+              "Đơn giá": "269.444",
+              "Chiết khấu": "0",
+              "Thuế suất": "8%",
+              "Thành tiền chưa có thuế GTGT": "269.444"
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "Thuế suất": "8%",
+              "Tổng tiền chưa thuế": "786.110",
+              "Tổng tiền thuế": "62.890"
+            }
+          ]
+        },
+        {
+          "rows": []
+        },
+        {
+          "Tổng tiền chưa thuế\n(Tổng cộng thành tiền chưa có thuế)": "786.110",
+          "Tổng giảm trừ không chịu thuế": "",
+          "Tổng tiền thuế (Tổng cộng tiền thuế)": "62.890",
+          "Tổng tiền phí": "",
+          "Tổng tiền chiết khấu thương mại": "0",
+          "Tổng giảm trừ khác": "",
+          "Tổng tiền thanh toán bằng số": "849.000",
+          "Tổng tiền thanh toán bằng chữ": "Tám trăm bốn mươi chín nghìn đồng chẵn./."
+        }
+      ]
+    }
+  ]
+}
